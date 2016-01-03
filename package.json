@@ -1,5 +1,5 @@
 {
-  "name": "rx-react",
+  "name": "@dotfold/rx-react",
   "version": "0.3.0",
   "description": "ReactJS bindings for RxJS",
   "main": "index.js",
@@ -15,10 +15,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/fdecampredon/rx-react.git"
+    "url": "git://github.com/dotfold/rx-react.git"
   },
   "bugs": {
-    "url": "https://github.com/fdecampredon/rx-react/issues"
+    "url": "https://github.com/dotfold/rx-react/issues"
   },
   "author": "François de Campredon <francois.de.campredon@gmail.com>",
   "licenses": "Apache-2.0",
